@@ -11,6 +11,7 @@ def print_hi(name):
     print "hello world with stars"
     print "who printed this??"
     print "hello world second time"
+    print "Trying pull"
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
